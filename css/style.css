@@ -54,3 +54,25 @@ main{
 ul {
     margin: 20px;
 }
+
+/* TABLE */
+th {
+    text-align: left;
+}
+
+thead {
+    background-color: rgb(11, 127, 236);
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.text {
+    width: 50%;
+}
+
+.odd {
+    background-color: lightblue;
+}
