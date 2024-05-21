@@ -21,6 +21,8 @@ header {
 main{
     margin: 5px;
 }
+
+/* IMAGES SECTIONS */
 .author {
     color:grey
     font-size: 20px;
@@ -38,4 +40,12 @@ main{
 .caption {
     font-size: 13px;
 }
-    
+
+/* TEXT CONTENT */
+.content {
+    margin: 30px 0px;
+}
+   
+.highlight {
+    background-color: yellow;
+}
