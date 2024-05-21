@@ -31,6 +31,7 @@ main{
 .date {
     color: gray;
     font-size: 15px;
+    margin-bottom: 30px;
 }
 
 .author-name {
@@ -48,4 +49,8 @@ main{
    
 .highlight {
     background-color: yellow;
+}
+
+ul {
+    margin: 20px;
 }
