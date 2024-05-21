@@ -69,10 +69,42 @@ table {
     border-collapse: collapse;
 }
 
+
+
 .text {
     width: 50%;
 }
 
 .odd {
     background-color: lightblue;
+}
+
+.paragraph {
+    margin-top: 30px;
+}
+
+/* FOOTER */
+h2 {
+    color: gray;
+    margin-left: 10px;
+}
+
+#image-monitor {
+    background-image: url(../image/monitor.jpg);
+}
+
+#image-graph {
+    background-image: url(../image/graph.jpg);
+}
+
+
+
+.image {
+    height: 160px;
+    width: 200px;
+    color: white;
+    padding: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px
 }
