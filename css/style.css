@@ -18,6 +18,9 @@ header {
 }
 
 /* MAIN */
+main{
+    margin: 5px;
+}
 .author {
     color:grey
     font-size: 20px;
@@ -30,5 +33,9 @@ header {
 
 .author-name {
     color: royalblue;
+}
+
+.caption {
+    font-size: 13px;
 }
     
