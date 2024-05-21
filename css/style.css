@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HEADER */
+header {
+    background-color: royalblue;
+    background-image: url("../image/pattern.png"); 
+    height: 75px; 
+    background-size: 300px;
+}
+
+#logo{
+    height: 100%;
+    padding: 30px 0px 15px 10px;
+}
+    
